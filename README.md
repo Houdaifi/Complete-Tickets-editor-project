@@ -1,4 +1,4 @@
-# Full-DataTable-controle
+# Full-DataTable-control
 Full Data control project ADD/EDIT/DELETE data, ADD new users and control each users rights by the admin
 Table data search and sort items
 Upload images and preview its before upload
