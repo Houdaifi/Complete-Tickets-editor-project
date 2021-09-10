@@ -1,5 +1,5 @@
 # Complete-Tickets-Project<br/>
-*Full Data control project ADD/EDIT/DELETE data, ADD new users and control each user actions and rights by the admin<br/>*
+*Full Data control project ADD/EDIT/DELETE data, ADD new users and control each user role and permissions by the admin<br/>*
 Table data search and sort items<br/>
 Preview files before upload it<br/>
 Comments section by each data<br/>
